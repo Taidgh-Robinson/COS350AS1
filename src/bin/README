@@ -1,0 +1,14 @@
+Included in this is my solution to homework 1. 
+
+It includes:
+
+The JJ method, which is the main algorithm to the problem. 
+The tester method, which was used to test the run times, for different values of n and len(D).
+The main method, which handles UI calls to the JJ method. 
+
+Runtime calculation from: https://stackoverflow.com/questions/180158/how-do-i-time-a-methods-execution-in-java. 
+
+It also includes the files 1,2,3,4 which were used to graph the run times of those respective tests (the filename being the len(D) and each value before the colon being n). 
+Due to hardware limits and a SUPER inefficent algorithm certain len(D) were only able to be calculated to roughly n=25.
+
+The graphs were included in the printed version of the hw. 
